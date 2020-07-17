@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Daye Nam
+tagline:             PH.D. Student at Carnegie Mellon University
+url:                 https://dayenam.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Daye Nam
+  url:               https://twitter.com/namdy0429
+  email:             dayen@andrew.cmu.edu
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/namdy0429
+google_analytics:    UA-73781515-1
+twitter:             namdy0429
+github:              namdy0429
+linkedin:            daye-nam
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist
