@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Daye Nam
-tagline:             PH.D. Student at Carnegie Mellon University
-url:                 https://dayenam.com
+title:               Hyun Uk Chae
+tagline:             PH.D. Student at University of Southern California
+url:                 https://semiconguy.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Daye Nam
-  url:               https://twitter.com/namdy0429
-  email:             dayen@andrew.cmu.edu
+  name:              Hyun Uk Chae
+  url:               https://twitter.com/semiconguy
+  email:             hyunukch@usc.edu
 
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/namdy0429
-google_analytics:    UA-73781515-1
-twitter:             namdy0429
-github:              namdy0429
-linkedin:            daye-nam
+  repo:              
+google_analytics:    
+twitter:             semiconguy
+github:              
+linkedin:            hyun-uk-chae-745738146
 
 # Gems
 plugins:
