@@ -118,7 +118,7 @@ author:
       url: "https://twitter.com/HyunUkChae1"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-goolescholar-square"
-      # url: "https://facebook.com/"
+      url: "https://scholar.google.com/citations?user=aKmgIc0AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
