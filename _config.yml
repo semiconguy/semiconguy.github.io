@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "123"
+title                    : "Welcome to Semiconguy's page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyun Uk Chae"
@@ -104,8 +104,8 @@ author:
   name             : "Hyun Uk Chae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **electronics and photonics** person."
-  location         : "Los Angeles"
-  email            :
+  location         : "Los Angeles, California"
+  email            : semiconguy@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
